@@ -1,0 +1,30 @@
+h2 {
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+h3 {
+    font-weight: 100;
+}
+
+body {
+    background-image: url("bg.png");
+    background-size:cover;
+    color:aliceblue;
+}
+
+#footer {
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    background-color: aliceblue;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-bottom: -5px;
+    color: darkslategray
+}
+
+canvas {
+    background-color: aliceblue;
+}
